@@ -1,18 +1,24 @@
 {
   "name": "enviroconfig",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "A flexible and easy-to-use Node.js package designed to manage environment configurations.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/IrtezaAsadRizvi/EnviroConfig"
+  },
   "scripts": {
     "build": "tsup"
   },
-  "author": "Irteza Asad",
+  "author": "Irteza Asad <irtezaasad@gmail.com>",
   "keywords": [
     "environment",
     "node",
-    "env"
+    "env",
+    "env management",
+    "config",
+    "production"
   ],
   "license": "ISC",
   "dependencies": {

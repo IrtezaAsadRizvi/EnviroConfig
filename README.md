@@ -1,18 +1,18 @@
 # EnviroConfig
 
-## Description
+## 🚀 Description
 
 **EnviroConfig** is a flexible and easy-to-use Node.js package designed to manage environment configurations. It addresses the common issue of handling multiple sets of environment variables for different environments, such as development, testing, and production. By using EnviroConfig, developers can easily switch between these environments, apply default values, validate configurations against schemas, and set custom paths for environment files. This package ensures that applications are configured correctly and consistently across various environments, reducing errors and simplifying the setup process.
 
-## How to Install
+## 👨‍💻 How to Install
 
 To install EnviroConfig, run the following command:
 
 ```bash
-npm install enviro-config
+npm install enviroconfig
 ```
 
-## How to Use
+## 👨‍💻 How to Use
 
 ### Using EnviroConfig in a Node.js Project
 
@@ -138,10 +138,10 @@ const config = new EnviroConfig({
 });
 ```
 
-### From Dev
+### 👋 From Dev
 EnviroConfig simplifies the management of environment variables in Node.js applications. By providing features such as default values, schema validation, and easy switching between environments, it helps ensure that your application is consistently configured across different stages of development. This reduces configuration errors and improves overall development efficiency.
 
 
-## License
+## 🪪 License
 
 [MIT]
